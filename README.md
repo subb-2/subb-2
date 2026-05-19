@@ -69,7 +69,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `Verilog` `RISC-V` `CPU Design` `Datapath` `Control Unit`
 
-🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/YOUR_ID/rv32i-single-cycle-cpu)
+🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/subb-2/riscv-rv32i-singlecycle-rtl-simulation.git)
 
 ---
 
