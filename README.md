@@ -84,7 +84,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `SoC Design` `APB` `MicroBlaze` `FPGA` `Embedded C`
 
-🔗 Repository : [rv32i-multi-cycle-soc](https://github.com/YOUR_ID/rv32i-multi-cycle-soc)
+🔗 Repository : [rv32i-multi-cycle-soc](https://github.com/subb-2/riscv-rv32i-multicycle-rtl-simulation.git)
 
 ---
 
@@ -99,7 +99,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `SystemVerilog` `UVM` `AXI4-Lite` `SPI` `I2C`
 
-🔗 Repository : [spi-i2c-axi-uvm](https://github.com/YOUR_ID/spi-i2c-axi-uvm)
+🔗 Repository : [spi-i2c-axi-uvm](https://github.com/subb-2/soc-axi-peripherals-vitis-uvm.git)
 
 ---
 
@@ -114,7 +114,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `UVM` `FIFO Verification` `UART` `Random Test`
 
-🔗 Repository : [uart-fifo-verification](https://github.com/YOUR_ID/uart-fifo-verification)
+🔗 Repository : [uart-fifo-verification]()
 
 ---
 
@@ -129,7 +129,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `FPGA` `UART` `FSM` `FND Controller`
 
-🔗 Repository : [fpga-stopwatch-system](https://github.com/YOUR_ID/fpga-stopwatch-system)
+🔗 Repository : [fpga-stopwatch-system](https://github.com/subb-2/uart-decoder-sender-stopwatch-watch.git)
 
 ---
 
