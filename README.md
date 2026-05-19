@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Subin Kim
 
-### RTL Design • Verification • FPGA • SoC Architecture
+### RTL Design • Verification • FPGA • SoC Architecture • Embedded
 
 Designing and verifying FPGA-based digital systems using  
 SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
@@ -13,12 +13,12 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 # 🚀 About Me
 
-- 🎓 Electronics & Embedded Systems Developer
-- 🔍 Interested in RTL Design & Verification Engineering
+- 🎓 B.S. in Physics and Astronomy | Double Major in Electronic and Information Communications Engineering at Sejong University
+- 👨‍💻 RTL Design & Verification Engineer
 - ⚡ FPGA-based SoC Design and Hardware Verification
-- 🛠 Working with Verilog / SystemVerilog / UVM / Vivado
+- 🛠 Working with Verilog / SystemVerilog / UVM / Vivado / Synopsys (Linux Env.)
 - 💻 Experience with MicroBlaze, AXI4-Lite, APB, UART, SPI, I2C
-- 📚 Studying Digital IC Design & Verification
+- 📚 Studying Digital IC Design & Verification & Embedded
 
 ---
 
