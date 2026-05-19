@@ -58,80 +58,160 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-## 🔹 RV32I Single Cycle CPU
+# 🔹 AXI-Based SPI & I2C IP Design
 
 ### Overview
-- Designed RV32I CPU based on RISC-V ISA
-- Implemented R / I / S / B / U / J instruction types
-- Harvard Architecture implementation
-- Timing analysis and FPGA verification
+- Designed AXI4-Lite based SPI and I2C Master IP
+- Built Vivado Block Design with MicroBlaze
+- Controlled peripherals using Embedded C firmware
+- Verified communication between FPGA boards
+
+### Features
+- AXI4-Lite Slave IP
+- MicroBlaze integration
+- Register-based control
+- GPIO integration
+- FPGA board communication
 
 ### Skills
-`Verilog` `RISC-V` `CPU Design` `Datapath` `Control Unit`
+`AXI4-Lite` `SPI` `I2C` `Vivado` `MicroBlaze`
 
-🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/subb-2/riscv-rv32i-singlecycle-rtl-simulation.git)
+🔗 Repository : [axi-spi-i2c-ip](https://github.com/YOUR_ID/axi-spi-i2c-ip)
 
 ---
 
-## 🔹 RV32I Multi Cycle SoC
+# 🔹 SPI & I2C Protocol Design and UVM Verification
+
+### Overview
+- Designed SPI and I2C communication protocols
+- Built UVM-based verification environment
+- Implemented protocol simulation and functional verification
+- Verified communication timing and protocol behavior
+
+### Features
+- SPI Master
+- I2C Master
+- UVM verification
+- Functional coverage
+- Protocol timing verification
+
+### Skills
+`SPI` `I2C` `SystemVerilog` `UVM` `Verification`
+
+🔗 Repository : [spi-i2c-uvm](https://github.com/YOUR_ID/spi-i2c-uvm)
+
+---
+
+# 🔹 RV32I Multi Cycle SoC
 
 ### Overview
 - Designed Multi-cycle RV32I CPU
 - Implemented APB Bus Master
-- Connected GPIO / UART / FND / BRAM peripherals
+- Connected UART, GPIO, FND, and BRAM peripherals
 - Verified SoC behavior using C firmware on FPGA
 
-### Skills
-`SoC Design` `APB` `MicroBlaze` `FPGA` `Embedded C`
+### Features
+- Multi-cycle architecture
+- APB Bus interface
+- Peripheral memory mapping
+- FPGA verification
+- Embedded C firmware
 
-🔗 Repository : [rv32i-multi-cycle-soc](https://github.com/subb-2/riscv-rv32i-multicycle-rtl-simulation.git)
+### Skills
+`SoC` `APB` `FPGA` `Embedded C` `RISC-V`
+
+🔗 Repository : [rv32i-multi-cycle-soc](https://github.com/YOUR_ID/rv32i-multi-cycle-soc)
 
 ---
 
-## 🔹 SPI & I2C AXI IP + UVM Verification
+# 🔹 RV32I Single Cycle CPU
 
 ### Overview
-- Designed AXI4-Lite based SPI / I2C Master IP
-- Built UVM verification environment
-- Implemented coverage-based verification
-- FPGA communication verification between boards
+- Designed RV32I CPU based on RISC-V ISA
+- Implemented R / I / S / B / U / J instruction types
+- Implemented Harvard Architecture
+- Verified timing and FPGA operation
+
+### Features
+- Datapath design
+- Control Unit implementation
+- Instruction / Data memory separation
+- ALU operation verification
 
 ### Skills
-`SystemVerilog` `UVM` `AXI4-Lite` `SPI` `I2C`
+`Verilog` `RISC-V` `CPU Design` `Datapath`
 
-🔗 Repository : [spi-i2c-axi-uvm](https://github.com/subb-2/soc-axi-peripherals-vitis-uvm.git)
+🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/YOUR_ID/rv32i-single-cycle-cpu)
 
 ---
 
-## 🔹 UART / FIFO Verification
+# 🔹 SystemVerilog UART/FIFO Verification
 
 ### Overview
-- Designed UART TX/RX FSM
-- FIFO Full / Empty corner case verification
-- Randomized verification with scoreboard
-- Monitor and driver implementation
+- Built verification environment for UART and FIFO
+- Implemented generator, driver, monitor, and scoreboard
+- Verified Full / Empty corner cases
+- Performed randomized verification testing
+
+### Features
+- Random transaction testing
+- Scoreboard comparison
+- Monitor data sampling
+- Full / Empty verification
+- Simultaneous push/pop verification
 
 ### Skills
-`UVM` `FIFO Verification` `UART` `Random Test`
+`SystemVerilog` `Verification` `FIFO` `UART` `Testbench`
 
-🔗 Repository : [uart-fifo-verification]()
+🔗 Repository : [uart-fifo-verification](https://github.com/YOUR_ID/uart-fifo-verification)
 
 ---
 
-## 🔹 FPGA Stopwatch & Watch System
+# 🔹 Integrated Digital System Design
 
 ### Overview
-- UART-controlled Stopwatch / Watch system
-- ASCII Decoder based control
+- Expanded Stopwatch/Watch system with SR04 and DHT11 sensors
+- Implemented UART communication with PC
+- Added FIFO buffering and ASCII sender
+- Integrated multiple modules into a single FPGA system
+
+### Features
+- UART PC Interface
+- FIFO Buffer
+- SR04 Distance Sensor
+- DHT11 Temperature/Humidity Sensor
+- ASCII Sender
+- FND Display
+
+### Skills
+`UART` `FIFO` `Sensor Interface` `FPGA Integration`
+
+🔗 Repository : [integrated-digital-system](https://github.com/YOUR_ID/integrated-digital-system)
+
+---
+
+# 🔹 FPGA UART Stopwatch & Watch System
+
+### Overview
+- Designed UART-based Stopwatch & Watch control system
+- Implemented UART TX/RX FSM and baud tick generator
+- Controlled Stopwatch/Watch functions using ASCII Decoder
+- Verified UART communication and FPGA hardware operation
+
+### Features
+- UART-based control
+- ASCII command decoder
+- Stopwatch / Watch mode
 - FND controller integration
-- Full FPGA simulation and hardware verification
+- FPGA hardware verification
 
 ### Skills
-`FPGA` `UART` `FSM` `FND Controller`
+`Verilog` `UART` `FSM` `FPGA` `FND Controller`
 
-🔗 Repository : [fpga-stopwatch-system](https://github.com/subb-2/uart-decoder-sender-stopwatch-watch.git)
+🔗 Repository : [fpga-uart-stopwatch-watch](https://github.com/YOUR_ID/fpga-uart-stopwatch-watch)
 
 ---
+
 
 # 📊 GitHub Stats
 
