@@ -24,29 +24,34 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 # 🧰 Tech Stack
 
-## HDL / Verification
-![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0C7CD5?style=for-the-badge&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM-FF6F00?style=for-the-badge&logoColor=white)
-![VCS](https://img.shields.io/badge/Synopsys_VCS-000000?style=for-the-badge&logoColor=white)
-![Verdi](https://img.shields.io/badge/Verdi-1A1A1A?style=for-the-badge&logoColor=white)
+### HDL / Verification
+![Verilog](https://img.shields.io/badge/VERILOG-E32029?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SYSTEMVERILOG-0079C1?style=for-the-badge&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-FF7F00?style=for-the-badge&logoColor=white)
+![Synopsys VCS](https://img.shields.io/badge/SYNOPSYS_VCS-000000?style=for-the-badge&logoColor=white)
+![Verdi](https://img.shields.io/badge/VERDI-1E1E1E?style=for-the-badge&logoColor=white)
 
 ---
 
-## FPGA / SoC
-![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
-![Vitis](https://img.shields.io/badge/Vitis-FCC624?style=for-the-badge&logoColor=black)
-![MicroBlaze](https://img.shields.io/badge/MicroBlaze-00599C?style=for-the-badge&logoColor=white)
-![AXI4](https://img.shields.io/badge/AXI4-6A1B9A?style=for-the-badge&logoColor=white)
-![APB](https://img.shields.io/badge/APB-283593?style=for-the-badge&logoColor=white)
+### FPGA / SoC
+![Xilinx Vivado](https://img.shields.io/badge/XILINX_VIVADO-D32126?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vitis](https://img.shields.io/badge/VITIS-F1C40F?style=for-the-badge&logoColor=black)
+![RV32I](https://img.shields.io/badge/RV32I-2C2255?style=for-the-badge&logo=riscv&logoColor=white)
+![MicroBlaze](https://img.shields.io/badge/MICROBLAZE-00599C?style=for-the-badge&logoColor=white)
+![AXI4](https://img.shields.io/badge/AXI4-8E44AD?style=for-the-badge&logoColor=white)
+![APB](https://img.shields.io/badge/APB-2980B9?style=for-the-badge&logoColor=white)
+![UART](https://img.shields.io/badge/UART-27AE60?style=for-the-badge&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-D35400?style=for-the-badge&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-16A085?style=for-the-badge&logoColor=white)
 
 ---
 
-## Programming
+### Programming & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-F1C40F?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
