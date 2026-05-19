@@ -137,9 +137,9 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=subb-2&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subb-2&layout=compact&theme=tokyonight)
 
 </div>
 
