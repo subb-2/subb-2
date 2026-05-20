@@ -33,7 +33,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-### FPGA / SoC=
+### FPGA / SoC
 
 ---
 
