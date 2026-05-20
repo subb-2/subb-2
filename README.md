@@ -36,13 +36,6 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### FPGA / SoC
 ![Xilinx Vivado](https://img.shields.io/badge/XILINX_VIVADO-D32126?style=for-the-badge&logo=amd&logoColor=white)
 ![Vitis](https://img.shields.io/badge/VITIS-F1C40F?style=for-the-badge&logo=amd&logoColor=black)
-![RV32I](https://img.shields.io/badge/RV32I-2C2255?style=for-the-badge&logo=riscv&logoColor=white)
-![MicroBlaze](https://img.shields.io/badge/MICROBLAZE-00599C?style=for-the-badge&logo=amd&logoColor=white)
-![AXI4](https://img.shields.io/badge/AXI4-8E44AD?style=for-the-badge&logo=arm&logoColor=white)
-![APB](https://img.shields.io/badge/APB-2980B9?style=for-the-badge&logo=arm&logoColor=white)
-![UART](https://img.shields.io/badge/UART-27AE60?style=for-the-badge&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-D35400?style=for-the-badge&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-16A085?style=for-the-badge&logoColor=white)
 
 ---
 
