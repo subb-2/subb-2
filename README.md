@@ -33,13 +33,12 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-### FPGA / SoC
-![Xilinx Vivado](https://img.shields.io/badge/XILINX_VIVADO-D32126?style=for-the-badge&logo=amd&logoColor=white)
-![Vitis](https://img.shields.io/badge/VITIS-F1C40F?style=for-the-badge&logo=amd&logoColor=black)
+### FPGA / SoC=
 
 ---
 
 ### Programming & Tools
+![Xilinx Vivado](https://img.shields.io/badge/XILINX_VIVADO-D32126?style=for-the-badge&logo=amd&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
