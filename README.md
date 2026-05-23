@@ -60,7 +60,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `AXI4-Lite` `SPI` `I2C` `Vivado` `MicroBlaze`
 
-🔗 Repository : [axi-spi-i2c-ip](https://github.com/YOUR_ID/axi-spi-i2c-ip)
+🔗 Repository : [axi-spi-i2c-ip](https://github.com/subb-2/axi-spi-i2c-ip)
 
 ---
 
@@ -70,7 +70,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `SPI` `I2C` `SystemVerilog` `UVM` `Verification`
 
-🔗 Repository : [spi-i2c-uvm](https://github.com/YOUR_ID/spi-i2c-uvm)
+🔗 Repository : [spi-i2c-uvm](https://github.com/subb-2/spi-i2c-uvm)
 
 ---
 
@@ -80,7 +80,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `SoC` `APB` `FPGA` `Embedded C` `RISC-V`
 
-🔗 Repository : [rv32i-multi-cycle-soc](https://github.com/YOUR_ID/rv32i-multi-cycle-soc)
+🔗 Repository : [rv32i-multi-cycle-soc](https://github.com/subb-2/rv32i-multi-cycle-soc)
 
 ---
 
@@ -90,7 +90,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `Verilog` `RISC-V` `CPU Design` `Datapath`
 
-🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/YOUR_ID/rv32i-single-cycle-cpu)
+🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/subb-2/rv32i-single-cycle-cpu)
 
 ---
 
@@ -100,7 +100,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `SystemVerilog` `Verification` `FIFO` `UART` `Testbench`
 
-🔗 Repository : [uart-fifo-verification](https://github.com/YOUR_ID/uart-fifo-verification)
+🔗 Repository : [uart-fifo-verification](https://github.com/subb-2/uart-fifo-verification)
 
 ---
 
@@ -110,7 +110,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `UART` `FIFO` `Sensor Interface` `FPGA Integration`
 
-🔗 Repository : [integrated-digital-system](https://github.com/YOUR_ID/integrated-digital-system)
+🔗 Repository : [integrated-digital-system](https://github.com/subb-2/integrated-digital-system)
 
 ---
 
@@ -120,7 +120,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `Verilog` `UART` `FSM` `FPGA` `FND Controller`
 
-🔗 Repository : [fpga-uart-stopwatch-watch](https://github.com/YOUR_ID/fpga-uart-stopwatch-watch)
+🔗 Repository : [fpga-uart-stopwatch-watch](https://github.com/subb-2/fpga-uart-stopwatch-watch)
 
 ---
 
