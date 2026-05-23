@@ -80,7 +80,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `SoC` `APB` `FPGA` `Embedded C` `RISC-V`
 
-🔗 Repository : [rv32i-multi-cycle-soc](https://github.com/subb-2/rv32i-multi-cycle-soc)
+🔗 Repository : [rv32i-multi-cycle-soc]([https://github.com/subb-2/rv32i-multi-cycle-soc](https://github.com/subb-2/riscv-rv32i-multicycle-rtl-simulation.git))
 
 ---
 
