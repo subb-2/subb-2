@@ -124,6 +124,12 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subb-2&theme=minimal" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
