@@ -55,19 +55,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ---
 
 # 🔹 AXI-Based SPI & I2C IP Design
-
-### Overview
-- Designed AXI4-Lite based SPI and I2C Master IP
-- Built Vivado Block Design with MicroBlaze
-- Controlled peripherals using Embedded C firmware
-- Verified communication between FPGA boards
-
-### Features
-- AXI4-Lite Slave IP
-- MicroBlaze integration
-- Register-based control
-- GPIO integration
-- FPGA board communication
+- Designed AXI4-Lite based SPI/I2C IP integrated with MicroBlaze system
 
 ### Skills
 `AXI4-Lite` `SPI` `I2C` `Vivado` `MicroBlaze`
@@ -77,19 +65,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ---
 
 # 🔹 SPI & I2C Protocol Design and UVM Verification
-
-### Overview
-- Designed SPI and I2C communication protocols
-- Built UVM-based verification environment
-- Implemented protocol simulation and functional verification
-- Verified communication timing and protocol behavior
-
-### Features
-- SPI Master
-- I2C Master
-- UVM verification
-- Functional coverage
-- Protocol timing verification
+- Designed and verified SPI/I2C protocols using UVM-based verification environment
 
 ### Skills
 `SPI` `I2C` `SystemVerilog` `UVM` `Verification`
@@ -99,19 +75,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ---
 
 # 🔹 RV32I Multi Cycle SoC
-
-### Overview
-- Designed Multi-cycle RV32I CPU
-- Implemented APB Bus Master
-- Connected UART, GPIO, FND, and BRAM peripherals
-- Verified SoC behavior using C firmware on FPGA
-
-### Features
-- Multi-cycle architecture
-- APB Bus interface
-- Peripheral memory mapping
-- FPGA verification
-- Embedded C firmware
+- Designed RV32I Multi-cycle SoC with APB peripherals and FPGA verification
 
 ### Skills
 `SoC` `APB` `FPGA` `Embedded C` `RISC-V`
@@ -121,18 +85,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ---
 
 # 🔹 RV32I Single Cycle CPU
-
-### Overview
-- Designed RV32I CPU based on RISC-V ISA
-- Implemented R / I / S / B / U / J instruction types
-- Implemented Harvard Architecture
-- Verified timing and FPGA operation
-
-### Features
-- Datapath design
-- Control Unit implementation
-- Instruction / Data memory separation
-- ALU operation verification
+- Implemented Single-cycle RV32I CPU based on RISC-V ISA
 
 ### Skills
 `Verilog` `RISC-V` `CPU Design` `Datapath`
@@ -142,19 +95,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ---
 
 # 🔹 SystemVerilog UART/FIFO Verification
-
-### Overview
-- Built verification environment for UART and FIFO
-- Implemented generator, driver, monitor, and scoreboard
-- Verified Full / Empty corner cases
-- Performed randomized verification testing
-
-### Features
-- Random transaction testing
-- Scoreboard comparison
-- Monitor data sampling
-- Full / Empty verification
-- Simultaneous push/pop verification
+- Built UART/FIFO verification environment with randomized testbench
 
 ### Skills
 `SystemVerilog` `Verification` `FIFO` `UART` `Testbench`
@@ -164,20 +105,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ---
 
 # 🔹 Integrated Digital System Design
-
-### Overview
-- Expanded Stopwatch/Watch system with SR04 and DHT11 sensors
-- Implemented UART communication with PC
-- Added FIFO buffering and ASCII sender
-- Integrated multiple modules into a single FPGA system
-
-### Features
-- UART PC Interface
-- FIFO Buffer
-- SR04 Distance Sensor
-- DHT11 Temperature/Humidity Sensor
-- ASCII Sender
-- FND Display
+- Integrated UART, FIFO, sensors, and display modules into FPGA system
 
 ### Skills
 `UART` `FIFO` `Sensor Interface` `FPGA Integration`
@@ -187,19 +115,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ---
 
 # 🔹 FPGA UART Stopwatch & Watch System
-
-### Overview
-- Designed UART-based Stopwatch & Watch control system
-- Implemented UART TX/RX FSM and baud tick generator
-- Controlled Stopwatch/Watch functions using ASCII Decoder
-- Verified UART communication and FPGA hardware operation
-
-### Features
-- UART-based control
-- ASCII command decoder
-- Stopwatch / Watch mode
-- FND controller integration
-- FPGA hardware verification
+- Designed UART-based Stopwatch/Watch control system on FPGA
 
 ### Skills
 `Verilog` `UART` `FSM` `FPGA` `FND Controller`
