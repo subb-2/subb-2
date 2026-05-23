@@ -84,14 +84,6 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-<div align="center">
-
-### Thanks for visiting 👋
-
-</div>
-
----
-
 # 📌 Main Projects
 
 ---
@@ -165,3 +157,9 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 🔗 Repository : [fpga-uart-stopwatch-watch](https://github.com/subb-2/fpga-uart-stopwatch-watch)
 
 ---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+</div>
