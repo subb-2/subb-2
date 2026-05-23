@@ -44,8 +44,8 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ---
 
 ### Boards / MCU / FPGA
-![Nucleo-64 STM32](https://img.shields.io/badge/NUCLEO--64_STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Basys3](https://img.shields.io/badge/BASYS3_FPGA-0066CC?style=for-the-badge&logoColor=white)
+![Nucleo-64 STM32](https://img.shields.io/badge/NUCLEO--64_STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ATmega128](https://img.shields.io/badge/ATMEGA128-8E44AD?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ---
