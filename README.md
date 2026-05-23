@@ -48,6 +48,48 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ![Nucleo-64 STM32](https://img.shields.io/badge/NUCLEO--64_STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ATmega128](https://img.shields.io/badge/ATMEGA128-8E44AD?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+# 🎯 Interests
+
+- RTL Design
+- Functional Verification
+- FPGA Prototyping
+- SoC Architecture
+- Embedded Systems
+- Digital IC Design
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api?username=subb-2&show_icons=true&theme=default&hide=issues,contribs&v=2" />
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api/top-langs/?username=subb-2&layout=compact&theme=default&v=2" />
+</div>
+
+---
+
+# 📫 Contact
+
+- 📧 Email(Gmail) : lemon830712@naver.com
+- 📧 Email(Naver) : zhsks312@gmail.com
+- 🐙 GitHub : https://github.com/subb-2
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+</div>
+
 ---
 
 # 📌 Main Projects
@@ -123,42 +165,3 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 🔗 Repository : [fpga-uart-stopwatch-watch](https://github.com/subb-2/fpga-uart-stopwatch-watch)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api?username=subb-2&show_icons=true&theme=default&hide=issues,contribs&v=2" />
-</div>
-
-## 💻 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api/top-langs/?username=subb-2&layout=compact&theme=default&v=2" />
-</div>
-
----
-
-# 🎯 Interests
-
-- RTL Design
-- Functional Verification
-- FPGA Prototyping
-- SoC Architecture
-- Embedded Systems
-- Digital IC Design
-
----
-
-# 📫 Contact
-
-- 📧 Email(Gmail) : lemon830712@naver.com
-- 📧 Email(Naver) : zhsks312@gmail.com
-- 🐙 GitHub : https://github.com/subb-2
-
----
-
-<div align="center">
-
-### Thanks for visiting 👋
-
-</div>
