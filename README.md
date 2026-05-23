@@ -33,10 +33,6 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-### FPGA / SoC
-
----
-
 ### Programming & Tools
 ![Xilinx Vivado](https://img.shields.io/badge/XILINX_VIVADO-D32126?style=for-the-badge&logo=amd&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -44,6 +40,14 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-F1C40F?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### Boards / MCU / FPGA
+![Nucleo-64 STM32](https://img.shields.io/badge/NUCLEO--64_STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Basys3](https://img.shields.io/badge/BASYS3_FPGA-0066CC?style=for-the-badge&logoColor=white)
+![ATmega128](https://img.shields.io/badge/ATMEGA128-8E44AD?style=for-the-badge&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ---
 
 # 📌 Main Projects
