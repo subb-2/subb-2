@@ -124,7 +124,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `Verilog` `RISC-V` `CPU Design` `Datapath`
 
-🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/subb-2/rv32i-single-cycle-cpu)
+🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/subb-2/riscv-rv32i-singlecycle-rtl-simulation.git)
 
 ---
 
@@ -144,7 +144,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `UART` `FIFO` `Sensor Interface` `FPGA Integration`
 
-🔗 Repository : [integrated-digital-system](https://github.com/subb-2/integrated-digital-system)
+🔗 Repository : [integrated-digital-system](https://github.com/subb-2/integrated-uart-sender-sensor-stopwatch-watch.git)
 
 ---
 
