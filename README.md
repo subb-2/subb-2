@@ -94,7 +94,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `AXI4-Lite` `SPI` `I2C` `Vivado` `MicroBlaze`
 
-🔗 Repository : [axi-spi-i2c-ip](https://github.com/subb-2/axi-spi-i2c-ip)
+🔗 Repository : [axi-spi-i2c-ip](https://github.com/subb-2/soc-axi-peripherals-vitis-uvm.git)
 
 ---
 
@@ -104,7 +104,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `SPI` `I2C` `SystemVerilog` `UVM` `Verification`
 
-🔗 Repository : [spi-i2c-uvm](https://github.com/subb-2/spi-i2c-uvm)
+🔗 Repository : [spi-i2c-uvm](https://github.com/subb-2/spi-i2c-uvm-verification-fpga.git)
 
 ---
 
@@ -134,7 +134,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `SystemVerilog` `Verification` `FIFO` `UART` `Testbench`
 
-🔗 Repository : [uart-fifo-verification](https://github.com/subb-2/uart-fifo-verification)
+🔗 Repository : [uart-fifo-verification](https://github.com/subb-2/sv-verification-uart-fifo-watch-stopwatch.git)
 
 ---
 
@@ -154,7 +154,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 ### Skills
 `Verilog` `UART` `FSM` `FPGA` `FND Controller`
 
-🔗 Repository : [fpga-uart-stopwatch-watch](https://github.com/subb-2/fpga-uart-stopwatch-watch)
+🔗 Repository : [fpga-uart-stopwatch-watch](https://github.com/subb-2/uart-decoder-sender-stopwatch-watch.git)
 
 ---
 
