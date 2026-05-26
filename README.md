@@ -122,7 +122,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 - Implemented Single-cycle RV32I CPU based on RISC-V ISA
 
 ### Skills
-`Verilog` `RISC-V` `CPU Design` `Datapath`
+`Verilog` `RISC-V` `CPU Design` `Computer Architecture`
 
 🔗 Repository : [rv32i-single-cycle-cpu](https://github.com/subb-2/riscv-rv32i-singlecycle-rtl-simulation.git)
 
