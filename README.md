@@ -62,13 +62,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api?username=subb-2&show_icons=true&theme=default&hide=issues,contribs&v=2" />
-</div>
-
-## 💻 Most Used Languages
+## 💻 Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api/top-langs/?username=subb-2&layout=compact&theme=default&hide=vhdl&v=2" />
