@@ -76,14 +76,6 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-# 📫 Contact
-
-- 📧 Email(Gmail) : lemon830712@naver.com
-- 📧 Email(Naver) : zhsks312@gmail.com
-- 🐙 GitHub : https://github.com/subb-2
-
----
-
 ## 📌 Main Projects
 
 | Project | Description | Skills | Repository |
@@ -95,6 +87,14 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 | SystemVerilog UART/FIFO Verification | Built UART/FIFO verification environment with randomized testbench | `SystemVerilog`, `Verification`, `FIFO`, `UART`, `Testbench` | [Link](https://github.com/subb-2/sv-verification-uart-fifo-watch-stopwatch.git) |
 | Integrated Digital System Design | Integrated UART, FIFO, sensors, and display modules into FPGA system | `UART`, `FIFO`, `Sensor Interface`, `FPGA Integration` | [Link](https://github.com/subb-2/integrated-uart-sender-sensor-stopwatch-watch.git) |
 | FPGA UART Stopwatch & Watch System | Designed UART-based Stopwatch/Watch control system on FPGA | `Verilog`, `UART`, `FSM`, `FPGA`, `FND Controller` | [Link](https://github.com/subb-2/uart-decoder-sender-stopwatch-watch.git) |
+
+---
+
+# 📫 Contact
+
+- 📧 Email(Gmail) : lemon830712@naver.com
+- 📧 Email(Naver) : zhsks312@gmail.com
+- 🐙 GitHub : https://github.com/subb-2
 
 ---
 
