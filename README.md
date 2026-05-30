@@ -62,14 +62,6 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-## 💻 Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api/top-langs/?username=subb-2&layout=compact&theme=default&hide=vhdl&v=2" />
-</div>
-
----
-
 ## 📌 Main Projects
 
 | Project | Description | Skills | Repository |
@@ -81,6 +73,14 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 | SystemVerilog UART/FIFO Verification | Built UART/FIFO verification environment with randomized testbench | `SystemVerilog`, `Verification`, `FIFO`, `UART`, `Testbench` | [Link](https://github.com/subb-2/sv-verification-uart-fifo-watch-stopwatch.git) |
 | Integrated Digital System Design | Integrated UART, FIFO, sensors, and display modules into FPGA system | `UART`, `FIFO`, `Sensor Interface`, `FPGA Integration` | [Link](https://github.com/subb-2/integrated-uart-sender-sensor-stopwatch-watch.git) |
 | FPGA UART Stopwatch & Watch System | Designed UART-based Stopwatch/Watch control system on FPGA | `Verilog`, `UART`, `FSM`, `FPGA`, `FND Controller` | [Link](https://github.com/subb-2/uart-decoder-sender-stopwatch-watch.git) |
+
+---
+
+## 💻 Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api/top-langs/?username=subb-2&layout=compact&theme=default&hide=vhdl&v=2" />
+</div>
 
 ---
 
