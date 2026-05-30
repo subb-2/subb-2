@@ -88,13 +88,13 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 | Project | Description | Skills | Repository |
 |----------|-------------|----------|----------|
-| AXI-Based SPI & I2C IP Design | Designed AXI4-Lite based SPI/I2C IP integrated with MicroBlaze system | AXI4-Lite, SPI, I2C, Vivado, MicroBlaze | [Link](https://github.com/subb-2/soc-axi-peripherals-vitis-uvm.git) |
-| SPI & I2C Protocol Design and UVM Verification | Designed and verified SPI/I2C protocols using UVM-based verification environment | SPI, I2C, SystemVerilog, UVM, Verification | [Link](https://github.com/subb-2/spi-i2c-uvm-verification-fpga.git) |
-| RV32I Multi Cycle SoC | Designed RV32I Multi-cycle SoC with APB peripherals and FPGA verification | SoC, APB, FPGA, Embedded C, RISC-V | [Link](https://github.com/subb-2/riscv-rv32i-multicycle-rtl-simulation.git) |
-| RV32I Single Cycle CPU | Implemented Single-cycle RV32I CPU based on RISC-V ISA | Verilog, RISC-V, CPU Design, Computer Architecture | [Link](https://github.com/subb-2/riscv-rv32i-singlecycle-rtl-simulation.git) |
-| SystemVerilog UART/FIFO Verification | Built UART/FIFO verification environment with randomized testbench | SystemVerilog, Verification, FIFO, UART, Testbench | [Link](https://github.com/subb-2/sv-verification-uart-fifo-watch-stopwatch.git) |
-| Integrated Digital System Design | Integrated UART, FIFO, sensors, and display modules into FPGA system | UART, FIFO, Sensor Interface, FPGA Integration | [Link](https://github.com/subb-2/integrated-uart-sender-sensor-stopwatch-watch.git) |
-| FPGA UART Stopwatch & Watch System | Designed UART-based Stopwatch/Watch control system on FPGA | Verilog, UART, FSM, FPGA, FND Controller | [Link](https://github.com/subb-2/uart-decoder-sender-stopwatch-watch.git) |
+| AXI-Based SPI & I2C IP Design | Designed AXI4-Lite based SPI/I2C IP integrated with MicroBlaze system | `AXI4-Lite`, `SPI`, `I2C`, `Vivado`, `MicroBlaze`, `UVM` | [Link](https://github.com/subb-2/soc-axi-peripherals-vitis-uvm.git) |
+| SPI & I2C Protocol Design and UVM Verification | Designed and verified SPI/I2C protocols using UVM-based verification environment | `SPI`, `I2C`, `SystemVerilog`, `UVM`, `Verification` | [Link](https://github.com/subb-2/spi-i2c-uvm-verification-fpga.git) |
+| RV32I Multi Cycle SoC | Designed RV32I Multi-cycle SoC with APB peripherals and FPGA verification | `SoC`, `APB`, `FPGA`, `Embedded C`, `RISC-V` | [Link](https://github.com/subb-2/riscv-rv32i-multicycle-rtl-simulation.git) |
+| RV32I Single Cycle CPU | Implemented Single-cycle RV32I CPU based on RISC-V ISA | `SystemVerilog`, `RISC-V`, `CPU Design`, `Computer Architecture` | [Link](https://github.com/subb-2/riscv-rv32i-singlecycle-rtl-simulation.git) |
+| SystemVerilog UART/FIFO Verification | Built UART/FIFO verification environment with randomized testbench | `SystemVerilog`, `Verification`, `FIFO`, `UART`, `Testbench` | [Link](https://github.com/subb-2/sv-verification-uart-fifo-watch-stopwatch.git) |
+| Integrated Digital System Design | Integrated UART, FIFO, sensors, and display modules into FPGA system | `UART`, `FIFO`, `Sensor Interface`, `FPGA Integration` | [Link](https://github.com/subb-2/integrated-uart-sender-sensor-stopwatch-watch.git) |
+| FPGA UART Stopwatch & Watch System | Designed UART-based Stopwatch/Watch control system on FPGA | `Verilog`, `UART`, `FSM`, `FPGA`, `FND Controller` | [Link](https://github.com/subb-2/uart-decoder-sender-stopwatch-watch.git) |
 
 ---
 
