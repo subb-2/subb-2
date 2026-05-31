@@ -62,7 +62,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-## 📌 Main Projects
+# 📌 Main Projects
 
 | Project | Description | Skills | Repository |
 |----------|-------------|----------|----------|
