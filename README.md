@@ -86,8 +86,8 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 # 📫 Contact
 
-- 📧 Email(Gmail) : lemon830712@naver.com
-- 📧 Email(Naver) : zhsks312@gmail.com
+- 📧 Email(Naver) : lemon830712@naver.com
+- 📧 Email(Gmail) : zhsks312@gmail.com
 - 🐙 GitHub : https://github.com/subb-2
 
 ---
