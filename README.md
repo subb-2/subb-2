@@ -62,10 +62,11 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-# 📌 Main Projects
+# 📌 Main Projects 
 
 | Project | Description | Skills |
 |----------|-------------|----------|
+| [Team3_ParkingLot_FinalProject](https://github.com/subb-2/Team3_FinalProject_ParkingLot) | Designed FinalProject | `VGA`, `Vivado`, `UVM`, `Jetson` , 'zybo-z7 20'|
 | [Team3_RhythmBeat_MiniProject](https://github.com/subb-2/Team3_RhythmBeat_MiniProject) | Designed RhythmBeat with VGA system | `VGA`, `Vivado`, `UVM` |
 | [AXI-Based SPI & I2C IP Design](https://github.com/subb-2/soc-axi-peripherals-vitis-uvm.git) | Designed AXI4-Lite based SPI/I2C IP integrated with MicroBlaze system | `AXI4-Lite`, `SPI`, `I2C`, `Vivado`, `MicroBlaze`, `UVM` |
 | [SPI & I2C Protocol Design and UVM Verification](https://github.com/subb-2/spi-i2c-uvm-verification-fpga.git) | Designed and verified SPI/I2C protocols using UVM-based verification environment | `SPI`, `I2C`, `SystemVerilog`, `UVM`, `Verification` |
