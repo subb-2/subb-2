@@ -55,10 +55,6 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 - RTL Design
 - Functional Verification
-- FPGA Prototyping
-- SoC Architecture
-- Embedded Systems
-- Digital IC Design
 
 ---
 
