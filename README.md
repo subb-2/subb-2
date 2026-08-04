@@ -66,7 +66,6 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 | Project | Description | Skills |
 |----------|-------------|----------|
-| [Team3_ParkingLot_FinalProject](https://github.com/subb-2/Team3_FinalProject_ParkingLot) | Project in progress (Designed FinalProject) | `VGA`, `Vivado`, `UVM`, `Jetson` , `zybo-z7 20`|
 | [Team3_RhythmBeat_MiniProject](https://github.com/subb-2/Team3_RhythmBeat_MiniProject) | Designed RhythmBeat with VGA system | `VGA`, `Vivado`, `UVM` |
 | [AXI-Based SPI & I2C IP Design](https://github.com/subb-2/soc-axi-peripherals-vitis-uvm.git) | Designed AXI4-Lite based SPI/I2C IP integrated with MicroBlaze system | `AXI4-Lite`, `SPI`, `I2C`, `Vivado`, `MicroBlaze`, `UVM` |
 | [SPI & I2C Protocol Design and UVM Verification](https://github.com/subb-2/spi-i2c-uvm-verification-fpga.git) | Designed and verified SPI/I2C protocols using UVM-based verification environment | `SPI`, `I2C`, `SystemVerilog`, `UVM`, `Verification` |
@@ -74,7 +73,7 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-# 📌 Projects 
+# ✔️ Projects 
 
 | Project | Description | Skills |
 |----------|-------------|----------|
@@ -82,6 +81,12 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 | [SystemVerilog UART/FIFO Verification](https://github.com/subb-2/sv-verification-uart-fifo-watch-stopwatch.git) | Built UART/FIFO verification environment with randomized testbench | `SystemVerilog`, `Verification`, `FIFO`, `UART`, `Testbench` |
 | [Integrated Digital System Design](https://github.com/subb-2/integrated-uart-sender-sensor-stopwatch-watch.git) | Integrated UART, FIFO, sensors, and display modules into FPGA system | `UART`, `FIFO`, `Sensor Interface`, `FPGA Integration` |
 | [FPGA UART Stopwatch & Watch System](https://github.com/subb-2/uart-decoder-sender-stopwatch-watch.git) | Designed UART-based Stopwatch/Watch control system on FPGA | `Verilog`, `UART`, `FSM`, `FPGA`, `FND Controller` |
+
+# 🕐 Projects in Progress
+
+| Project | Description | Skills |
+|----------|-------------|----------|
+| [Team3_ParkingLot_FinalProject](https://github.com/subb-2/Team3_FinalProject_ParkingLot) | Project in progress (Designed FinalProject) | `VGA`, `Vivado`, `UVM`, `Jetson` , `zybo-z7 20`|
 
 ---
 
