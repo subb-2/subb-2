@@ -88,6 +88,16 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
+<a href="https://github.com/git-goods/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/깃허브아이디"
+    width="600"
+    height="300"
+  />
+</a>
+
+---
+
 # 📫 Contact
 
 - 📧 Email(Naver) : lemon830712@naver.com
