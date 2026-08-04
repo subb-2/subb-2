@@ -88,14 +88,6 @@ SystemVerilog, UVM, RISC-V, AXI, and APB architectures.
 
 ---
 
-## 💻 Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api/top-langs/?username=subb-2&layout=compact&theme=default&hide=vhdl&v=2" />
-</div>
-
----
-
 # 📫 Contact
 
 - 📧 Email(Naver) : lemon830712@naver.com
